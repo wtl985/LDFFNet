@@ -1,0 +1,7 @@
+train: '/LDFFNet/data/train'
+val: '/LDFFNet/data/val'
+test: '/LDFFNet/data/test'
+
+nc: 6
+names: ['refractory material', 'titanium diboride', 'oxide film', 'nitride', 'spinel', 'magnesium oxide']
+
