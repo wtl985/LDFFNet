@@ -10,9 +10,11 @@ Visual result comparison of six aluminum alloy inclusion categories across diffe
 ![fig6](https://github.com/user-attachments/assets/65371b85-ffba-4d22-a153-f7b23795639b)
 
 Evolution of mAP@0.5 and mAP@[0.5:0.95] metrics throughout the training process across different detection approaches.
-<img width="947" height="405" alt="image" src="https://github.com/user-attachments/assets/e7d66079-8b12-46fb-9d4e-f8908f1a6aa7" />
+<img width="927" height="402" alt="image" src="https://github.com/user-attachments/assets/85a6b154-67db-4792-af7b-65c03791f4c0" />
+
 
 The relationship between inference latency and both mAP and FLOPs indicators.
-<img width="881" height="425" alt="image" src="https://github.com/user-attachments/assets/a8a81c35-9a1a-4b8c-be90-3369db7170f7" />
+<img width="947" height="398" alt="image" src="https://github.com/user-attachments/assets/932e532e-bc8d-44a6-b082-fe748a09170c" />
+
 
 
